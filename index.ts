@@ -1,2 +1,3 @@
 let greet ='Hello world'
-console.log(greet)
+let userName ='sir Ameen alam'
+console.log(greet+' '+userName)
